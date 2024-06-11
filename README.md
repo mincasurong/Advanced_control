@@ -5,7 +5,7 @@ This repository contains MATLAB codes for various feedback control simulations, 
 ## Contents
 
 - **[Assist_as_needed_switching.m](Assist_as_needed_switching.m)**: MATLAB script implementing assist-as-needed switching control.
-- **[DOB_ZOH_PAA_1_LPF2nd_Final.m](DOB_ZOH_PAA_1_LPF2nd_Final.m)**: Implementation of Disturbance Observer (DOB) with Zero-Order Hold (ZOH), Proportional-Integral (PI) control, and a second-order low-pass filter.
+- **[DOB_ZOH_PAA_1_LPF2nd_Final.m](DOB_ZOH_PAA_1_LPF2nd_Final.m)**: Implementation of Disturbance Observer (DOB) with Zero-Order Hold (ZOH), PAA (Parameter Adaptation Algorithm) control, and a second-order low-pass filter.
 - **[Prob6_LQR.m](Prob6_LQR.m)**: MATLAB code for Linear Quadratic Regulator (LQR) problem.
 
 ## Getting Started
